@@ -1,0 +1,35 @@
+---
+name: 金のアーキテクチャ
+docPath: docs
+nodes:
+  -
+    name: GMOあおぞらネット銀行
+    components:
+      - 普通口座
+  -
+    name: 三菱UFJ銀行
+    components:
+      - 普通口座
+  -
+    name: LINE
+    components:
+      - Visa LINE Payカード
+
+networks:
+  -
+    route:
+      - "会社"
+      - "GMOあおぞらネット銀行:普通口座"
+  -
+    route:
+      - "GMOあおぞらネット銀行:普通口座"
+      - "三菱UFJ銀行:普通口座"
+  -
+    route:
+      - "三菱UFJ銀行:普通口座"
+      - "LINE:Visa LINE Payカード"
+
+  -
+    route:
+      - "LINE:Visa LINE Payカード"
+      - "世界"
