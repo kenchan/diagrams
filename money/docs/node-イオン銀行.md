@@ -12,8 +12,8 @@
 
 | Name | Description | From (Relation) | To (Relation) |
 | --- | --- | --- | --- |
-| イオン銀行:普通口座 |  <a href="../ndiag.descriptions/_component-イオン銀行_普通口座.md">:pencil2:</a> | [gmoあおぞらネット銀行:普通口座](node-gmoあおぞらネット銀行.md) | イオン銀行デビットカード |
-| イオン銀行:デビットカード |  <a href="../ndiag.descriptions/_component-イオン銀行_デビットカード.md">:pencil2:</a> |  |  |
+| イオン銀行:普通口座 |  <a href="../ndiag.descriptions/_component-イオン銀行_普通口座.md">:pencil2:</a> | [gmoあおぞらネット銀行:普通口座](node-gmoあおぞらネット銀行.md) | [イオン銀行:デビットカード](node-イオン銀行.md) |
+| イオン銀行:デビットカード |  <a href="../ndiag.descriptions/_component-イオン銀行_デビットカード.md">:pencil2:</a> | [イオン銀行:普通口座](node-イオン銀行.md) | イオン |
 
 ## Labels
 
