@@ -24,6 +24,7 @@
 | [セブンカード](node-セブンカード.md) | <a href="../ndiag.descriptions/_node-セブンカード.md">:pencil2:</a> |
 | [プルデンシャル生命](node-プルデンシャル生命.md) | <a href="../ndiag.descriptions/_node-プルデンシャル生命.md">:pencil2:</a> |
 | [県民共済](node-県民共済.md) | <a href="../ndiag.descriptions/_node-県民共済.md">:pencil2:</a> |
+| [イオン銀行](node-イオン銀行.md) | <a href="../ndiag.descriptions/_node-イオン銀行.md">:pencil2:</a> |
 
 ## Layers
 
