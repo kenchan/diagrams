@@ -12,7 +12,7 @@
 
 | Name | Description | From (Relation) | To (Relation) |
 | --- | --- | --- | --- |
-| gmoあおぞらネット銀行:普通口座 |  <a href="../ndiag.descriptions/_component-gmoあおぞらネット銀行_普通口座.md">:pencil2:</a> | 会社 | [三菱ufj銀行:普通口座](node-三菱ufj銀行.md) / [楽天銀行:普通口座](node-楽天銀行.md) |
+| gmoあおぞらネット銀行:普通口座 |  <a href="../ndiag.descriptions/_component-gmoあおぞらネット銀行_普通口座.md">:pencil2:</a> | 会社 | [三菱ufj銀行:普通口座](node-三菱ufj銀行.md) / [楽天銀行:普通口座](node-楽天銀行.md) / [住信sbiネット銀行:普通口座](node-住信sbiネット銀行.md) |
 
 ## Labels
 
