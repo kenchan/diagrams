@@ -19,7 +19,8 @@
 | [楽天銀行](node-楽天銀行.md) | <a href="../ndiag.descriptions/_node-楽天銀行.md">:pencil2:</a> |
 | [住信SBIネット銀行](node-住信sbiネット銀行.md) | <a href="../ndiag.descriptions/_node-住信sbiネット銀行.md">:pencil2:</a> |
 | [楽天証券](node-楽天証券.md) | <a href="../ndiag.descriptions/_node-楽天証券.md">:pencil2:</a> |
-| [LINE](node-line.md) | <a href="../ndiag.descriptions/_node-line.md">:pencil2:</a> |
+| [三井住友カード](node-三井住友カード.md) | <a href="../ndiag.descriptions/_node-三井住友カード.md">:pencil2:</a> |
+| [セゾンカード](node-セゾンカード.md) | <a href="../ndiag.descriptions/_node-セゾンカード.md">:pencil2:</a> |
 
 ## Layers
 

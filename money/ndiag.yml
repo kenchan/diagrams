@@ -26,9 +26,15 @@ nodes:
       - 積立NISA
       - 投資信託
   -
-    name: LINE
+    name: 三井住友カード
     components:
+      - Amazon Masterカード
       - Visa LINE Payカード
+  -
+    name: セゾンカード
+    components:
+      - Amex(家族)
+      - 三井カード
 
 networks:
   -
@@ -39,7 +45,7 @@ networks:
     route:
       - "GMOあおぞらネット銀行:普通口座"
       - "三菱UFJ銀行:普通口座"
-      - "LINE:Visa LINE Payカード"
+      - "三井住友カード:Visa LINE Payカード"
       - "世界"
   -
     route:
@@ -64,3 +70,18 @@ networks:
     route:
       - "三菱UFJ銀行:普通口座"
       - "管理費・修繕積立金"
+  -
+    route:
+      - "三菱UFJ銀行:普通口座"
+      - "三井住友カード:Amazon Masterカード"
+      - "Amazon"
+  -
+    route:
+      - "GMOあおぞらネット銀行:普通口座"
+      - "セゾンカード:Amex(家族)"
+      - "世界"
+  -
+    route:
+      - "GMOあおぞらネット銀行:普通口座"
+      - "セゾンカード:三井カード"
+      - "ららぽーとなど"
