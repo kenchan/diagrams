@@ -12,7 +12,7 @@
 
 | Name | Description | From (Relation) | To (Relation) |
 | --- | --- | --- | --- |
-| 県民共済:保険 |  <a href="../ndiag.descriptions/_component-県民共済_保険.md">:pencil2:</a> | [三菱ufj銀行:普通口座](node-三菱ufj銀行.md) |  |
+| 県民共済:保険 |  <a href="../ndiag.descriptions/_component-県民共済_保険.md">:pencil2:</a> | [メインバンク:三菱ufj銀行](node-メインバンク.md) |  |
 
 ## Labels
 

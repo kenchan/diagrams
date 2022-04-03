@@ -12,7 +12,7 @@
 
 | Name | Description | From (Relation) | To (Relation) |
 | --- | --- | --- | --- |
-| プルデンシャル生命:生命保険 |  <a href="../ndiag.descriptions/_component-プルデンシャル生命_生命保険.md">:pencil2:</a> | [三菱ufj銀行:普通口座](node-三菱ufj銀行.md) |  |
+| プルデンシャル生命:生命保険 |  <a href="../ndiag.descriptions/_component-プルデンシャル生命_生命保険.md">:pencil2:</a> | [メインバンク:三菱ufj銀行](node-メインバンク.md) |  |
 
 ## Labels
 
