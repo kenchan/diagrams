@@ -11,6 +11,16 @@ nodes:
     components:
       - 普通口座
   -
+    name: 楽天銀行
+    components:
+      - 普通口座
+      - 楽天カード
+  -
+    name: 楽天証券
+    components:
+      - 積立NISA
+      - 投資信託
+  -
     name: LINE
     components:
       - Visa LINE Payカード
@@ -24,12 +34,19 @@ networks:
     route:
       - "GMOあおぞらネット銀行:普通口座"
       - "三菱UFJ銀行:普通口座"
-  -
-    route:
-      - "三菱UFJ銀行:普通口座"
-      - "LINE:Visa LINE Payカード"
-
-  -
-    route:
       - "LINE:Visa LINE Payカード"
       - "世界"
+  -
+    route:
+      - "GMOあおぞらネット銀行:普通口座"
+      - "楽天銀行:普通口座"
+      - "楽天銀行:楽天カード"
+      - "楽天証券:積立NISA"
+  -
+    route:
+      - "楽天銀行:楽天カード"
+      - "楽天証券:投資信託"
+  -
+    route:
+      - "楽天銀行:楽天カード"
+      - "楽天市場"
