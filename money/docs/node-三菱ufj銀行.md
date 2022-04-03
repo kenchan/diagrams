@@ -12,7 +12,7 @@
 
 | Name | Description | From (Relation) | To (Relation) |
 | --- | --- | --- | --- |
-| 三菱ufj銀行:普通口座 |  <a href="../ndiag.descriptions/_component-三菱ufj銀行_普通口座.md">:pencil2:</a> | [gmoあおぞらネット銀行:普通口座](node-gmoあおぞらネット銀行.md) | [三井住友カード:visa line payカード](node-三井住友カード.md) / 管理費・修繕積立金 / [三井住友カード:amazon masterカード](node-三井住友カード.md) |
+| 三菱ufj銀行:普通口座 |  <a href="../ndiag.descriptions/_component-三菱ufj銀行_普通口座.md">:pencil2:</a> | [gmoあおぞらネット銀行:普通口座](node-gmoあおぞらネット銀行.md) | [三井住友カード:visa line payカード](node-三井住友カード.md) / 管理費・修繕積立金 / [三井住友カード:amazon masterカード](node-三井住友カード.md) / [セブンカード:セブンカード(家族)](node-セブンカード.md) / [プルデンシャル生命:生命保険](node-プルデンシャル生命.md) / [県民共済:保険](node-県民共済.md) |
 
 ## Labels
 
